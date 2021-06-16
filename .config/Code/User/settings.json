@@ -1,0 +1,137 @@
+{
+    "advancedNewFile.showInformationMessages": true,
+    "advancedNewFile.convenienceOptions": [
+        "last",
+        "current",
+        "root"
+    ],
+    "extensions.ignoreRecommendations": true,
+    "files.associations": {
+        "*.js": "javascriptreact",
+        "*.jsx": "javascriptreact"
+      },
+    "advancedNewFile.exclude": {
+        "node_modules": true,
+        "node_modules_electron": true,
+        "dev": true,
+        "dist": true
+    },
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/node_modules": true,
+        "**/.next": true,
+        "**/venv": true
+    },
+    "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+    "terminal.integrated.fontSize": 16,
+    "editor.fontSize": 24,
+    "editor.lineHeight": 42,
+    "editor.matchBrackets": "never",
+    "editor.renderLineHighlight": "none",
+    "editor.suggestFontSize": 18,
+    // "vim.leader": ",",
+    // "vim.sneak": true,
+    // "vim.hlsearch": true,
+    // "vim.useCtrlKeys": false,
+    // "vim.showmodename": false,
+    // "vim.history": 100,
+    // "vim.useSystemClipboard": true,
+    // "vim.insertModeKeyBindings": [
+    //     {
+    //         "before": [
+    //             "j",
+    //             "j"
+    //         ],
+    //         "after": [
+    //             "Esc"
+    //         ]
+    //     }
+    // ],
+    // "vim.normalModeKeyBindingsNonRecursive": [
+    //     {
+    //         "before": [
+    //             "<leader>",
+    //             "<space>"
+    //         ],
+    //         "commands": [
+    //             ":nohl"
+    //         ]
+    //     }
+    // ],
+    "editor.minimap.enabled": false,
+    "editor.cursorBlinking": "solid",
+    "editor.snippetSuggestions": "top",
+    "npm.packageManager": "yarn",
+    "php.suggest.basic": false,
+    "telemetry.enableTelemetry": false,
+    "window.openFilesInNewWindow": "off",
+    "window.openFoldersInNewWindow": "default",
+    "workbench.activityBar.visible": false,
+    "workbench.editor.enablePreview": false,
+    "workbench.startupEditor": "newUntitledFile",
+    // "code-runner.clearPreviousOutput": true,
+    // "code-runner.showExecutionMessage": false,
+    "explorer.confirmDelete": false,
+    "explorer.openEditors.visible": 0,
+    "workbench.iconTheme": "material-icon-theme",
+    "liveServer.settings.donotVerifyTags": true,
+    "editor.suggestSelection": "first",
+    // "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    // "python.jediEnabled": false,
+    "extensions.autoCheckUpdates": false,
+    "breadcrumbs.enabled": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.folding": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "lonefy.vscode-JS-CSS-HTML-formatter"
+    },
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.wordWrap": "on",
+    "grunt.autoDetect": "off",
+    "gulp.autoDetect": "off",
+    "grammarly.userWords": [
+        "ahdemy",
+        "nashabibah"
+    ],
+    "workbench.colorTheme": "Code Blue",
+    "window.zoomLevel": 0,
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "typescript": "typescriptreact"
+    },
+    "emmet.excludeLanguages": [
+        "markdown"
+    ],
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "grammarly.audience": "general",
+    "grammarly.hideUnavailablePremiumAlerts": true,
+    "grammarly.emotions": [
+        "confident", "optimistic", "joyful"
+    ],
+    "grammarly.goals": [
+    "tellStory", "convince"
+    ],
+    "editor.formatOnSave": true,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+}

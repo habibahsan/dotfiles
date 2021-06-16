@@ -1,0 +1,9 @@
+set visualbell
+set noerrorbells
+set surround
+set keymodel=startsel
+
+let mapleader = ","
+
+inoremap jj <Esc>
+nmap <leader>d :t.<cr>
